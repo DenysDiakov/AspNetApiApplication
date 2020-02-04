@@ -1,0 +1,16 @@
+F:\Projects\MyTask\MyTask\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Projects\MyTask\MyTask\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Projects\MyTask\MyTask\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Projects\MyTask\MyTask\bin\Debug\netcoreapp2.1\MyTask.deps.json
+F:\Projects\MyTask\MyTask\bin\Debug\netcoreapp2.1\MyTask.runtimeconfig.json
+F:\Projects\MyTask\MyTask\bin\Debug\netcoreapp2.1\MyTask.runtimeconfig.dev.json
+F:\Projects\MyTask\MyTask\bin\Debug\netcoreapp2.1\MyTask.dll
+F:\Projects\MyTask\MyTask\bin\Debug\netcoreapp2.1\MyTask.pdb
+F:\Projects\MyTask\MyTask\obj\Debug\netcoreapp2.1\MyTask.csprojAssemblyReference.cache
+F:\Projects\MyTask\MyTask\obj\Debug\netcoreapp2.1\MyTask.RazorAssemblyInfo.cache
+F:\Projects\MyTask\MyTask\obj\Debug\netcoreapp2.1\MyTask.RazorAssemblyInfo.cs
+F:\Projects\MyTask\MyTask\obj\Debug\netcoreapp2.1\MyTask.AssemblyInfoInputs.cache
+F:\Projects\MyTask\MyTask\obj\Debug\netcoreapp2.1\MyTask.AssemblyInfo.cs
+F:\Projects\MyTask\MyTask\obj\Debug\netcoreapp2.1\MyTask.RazorTargetAssemblyInfo.cache
+F:\Projects\MyTask\MyTask\obj\Debug\netcoreapp2.1\MyTask.dll
+F:\Projects\MyTask\MyTask\obj\Debug\netcoreapp2.1\MyTask.pdb
